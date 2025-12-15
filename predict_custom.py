@@ -7,7 +7,7 @@ import os
 # ==========================================
 # 👇 TYPE YOUR IMAGE NAME HERE 👇
 # ==========================================
-image_name = "Y3.jpg"  # <--- CHANGE THIS to your file name
+image_name = "15 no.jpg"  # <--- CHANGE THIS to your file name
 # ==========================================
 
 # --- STEP 1: DEFINE THE MODEL ARCHITECTURE ---
